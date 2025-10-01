@@ -1,2 +1,2 @@
-# PCB-layout
-PCB layout
+regulator circuit using 7805
+
